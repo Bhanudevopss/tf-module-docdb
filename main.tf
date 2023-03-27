@@ -47,4 +47,3 @@ resource "aws_ssm_parameter" "docdb_endpoint" {
   value = aws_docdb_cluster.main.endpoint
 }
 
-
