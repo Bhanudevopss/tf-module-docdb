@@ -48,4 +48,3 @@ resource "aws_ssm_parameter" "docdb_endpoint" {
 }
 
 
-
